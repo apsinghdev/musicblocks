@@ -1,6 +1,7 @@
 Why the arts and why music?
 ===========================
 
+
 Music is the perfect entry point for learning computation. For one, music, like computation, requires a person to think on an abstract level. Another reason is because computation and music share important concepts (detailed below in “Pedagogical Approach”). Moreover, music has some benefits that the traditional computer pedagogy does not, including the potential to improve social-emotional skills. 
 
 According to the NEA: Childhood arts education provides important gateway and formative experiences in the arts... School-based arts education is of particular importance because schools are the only institutions that reach vast numbers of children, particularly low-income children, who are unlikely to receive arts education any other way... [A] body of solid research and innovative practice continues to grow and show that arts education has serious benefits to students as students, and that arts learning is strongly associated with higher levels of achievement, positive social and emotional development, and successful transitions into adulthood. (NEA Survey of Public Participation in the Arts, 2010) 

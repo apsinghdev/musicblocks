@@ -93,7 +93,7 @@ class GlobalCard {
                             </div>
                             <a class="project-icon tooltipped" data-position="bottom" data-delay="50" data-tooltip="${_(
                                 "Collaborate"
-                            )}" id="global-project-more-details-{ID}"><i class="material-icons">group</i></a> 
+                            )}" id="global-project-details-{ID}"><i class="material-icons">group</i></a> 
                         </div> 
                     </div> 
 
